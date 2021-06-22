@@ -4,5 +4,4 @@
 
 Olá, bem vindo ao nosso livro de receitas
 
-- Strogonoff e Frango
-- Pave
+Iremos aprender a fazer um belíssmo Strogonoff e Frango.
